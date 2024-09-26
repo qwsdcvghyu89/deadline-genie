@@ -17,6 +17,14 @@ function App() {
         >
           Learn React
         </a>
+        <a
+          className="App-link"
+          href="https://youtube.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          >
+          Open Youtube
+        </a>
       </header>
     </div>
   );
