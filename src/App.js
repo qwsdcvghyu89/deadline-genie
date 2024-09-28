@@ -1,5 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
+import React from 'react';
+import VoiceRecorder from './VoiceRecorder';
+
+
+const App = () => {
+  return (
+    <div className="App">
+      <VoiceRecorder />
+    </div>
+  );
+};
 
 function App() {
   return (
